@@ -1,2 +1,10 @@
 How are you doing ............
 Git at night
+CitHub How are you
+git add --all
+git add --A
+
+
+
+
+Greeting
